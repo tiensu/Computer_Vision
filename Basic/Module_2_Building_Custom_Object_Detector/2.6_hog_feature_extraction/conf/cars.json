@@ -31,19 +31,5 @@
 	"overlap_thresh": 0.3,
 	"pyramid_scale": 1.5,
 	"window_dim": [96, 32],
-	"min_probability": 0.7,
-
-	/****
-	* LINEAR SVM
-	****/
-	"classifier_path": "output/cars/model_with_hn.cpickle",
-	"C": 0.01,
-
-	/****
-	* HARD NEGATIVE MINING
-	****/
-	"hn_num_distraction_images": 50,
-	"hn_window_step": 4,
-	"hn_pyramid_scale": 1.5,
-	"hn_min_probability": 0.51
+	"min_probability": 0.7
 }
