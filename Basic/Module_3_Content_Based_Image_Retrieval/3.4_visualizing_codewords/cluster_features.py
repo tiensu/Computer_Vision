@@ -1,6 +1,5 @@
 # USAGE
-# python cluster_features.py --features-db output/features.hdf5 --codebook output/vocab.cpickle --clusters 1536 \
-#	--percentage 0.25
+# python cluster_features.py --features-db output/features.hdf5 --codebook output/vocab.cpickle --clusters 1536 --percentage 0.25
 
 # import the necessary packages
 from __future__ import print_function
