@@ -1,0 +1,3 @@
+input_features: 34
+hidden_dim: 50
+learning_rate: 0.0001
